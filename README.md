@@ -1,1 +1,1 @@
-# D--Mal-algoritmy
+# Du-Male algoritmy
